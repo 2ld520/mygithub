@@ -12,6 +12,12 @@
 ### 3. 在线缴费模块
 #### 在后台管理系统对账户(李四)进行充值和扣费,用户端进行缴费
 ![image](https://github.com/zhuangludong/mygithub/blob/master/jiaofei.gif )
+### 4. 闲置商品模块
+####  用户提交商品发布请求后，后台管理系统中可以审核请求
+![image](https://github.com/zhuangludong/mygithub/blob/master/jiaoyi.gif)
+### 5.首页信息管理模块
+####  对首页的轮播图和资讯进行管理
+![image](https://github.com/zhuangludong/mygithub/blob/master/swiper%26news.gif)
 ## Build Setup
 
 ``` bash
